@@ -1,6 +1,6 @@
 ## Massimo Landi 2015-02-22
 ## The following functions implement a way to compute the inverse of a matrix
-##using a cached value to reduce computing time
+## using a cached value to reduce computing time
 
 ## Massimo Landi 2015-02-22
 ## This function create an environment so that the inverse of a given matrix
